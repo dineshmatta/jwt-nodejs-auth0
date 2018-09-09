@@ -1,0 +1,21 @@
+{
+  "name": "jwt-nodejs",
+  "version": "1.0.0",
+  "description": "JSON Web Token(JWT) Authentication with Nodej.js and Auth0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "auth0",
+    "jwt",
+    "rest",
+    "api"
+  ],
+  "author": "Dinesh Matta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
